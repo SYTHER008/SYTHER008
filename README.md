@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SYTHER008
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Pythn and c++
+- 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Mail:-kushteshree@gmail.com
 
